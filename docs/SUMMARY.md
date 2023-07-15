@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to taskflow](README.md)
+* [👋 Welcome to Taskflow](README.md)
 
 ## Overview
 
